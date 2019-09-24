@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\sinozicSebastianMojaPrvaAplikacija1\sinozicSebastianMojaPrvaAplikacija1\bin\Debug\sinozicSebastianMojaPrvaAplikacija1.exe.config
+C:\Users\3.D\source\repos\sinozicSebastianMojaPrvaAplikacija1\sinozicSebastianMojaPrvaAplikacija1\bin\Debug\sinozicSebastianMojaPrvaAplikacija1.exe
+C:\Users\3.D\source\repos\sinozicSebastianMojaPrvaAplikacija1\sinozicSebastianMojaPrvaAplikacija1\bin\Debug\sinozicSebastianMojaPrvaAplikacija1.pdb
+C:\Users\3.D\source\repos\sinozicSebastianMojaPrvaAplikacija1\sinozicSebastianMojaPrvaAplikacija1\obj\Debug\sinozicSebastianMojaPrvaAplikacija1.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\sinozicSebastianMojaPrvaAplikacija1\sinozicSebastianMojaPrvaAplikacija1\obj\Debug\sinozicSebastianMojaPrvaAplikacija1.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\sinozicSebastianMojaPrvaAplikacija1\sinozicSebastianMojaPrvaAplikacija1\obj\Debug\sinozicSebastianMojaPrvaAplikacija1.exe
+C:\Users\3.D\source\repos\sinozicSebastianMojaPrvaAplikacija1\sinozicSebastianMojaPrvaAplikacija1\obj\Debug\sinozicSebastianMojaPrvaAplikacija1.pdb
