@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\bin\Debug\sinozicSebastianMojProjekt2.exe.config
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\bin\Debug\sinozicSebastianMojProjekt2.exe
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\bin\Debug\sinozicSebastianMojProjekt2.pdb
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\obj\Debug\sinozicSebastianMojProjekt2.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\obj\Debug\sinozicSebastianMojProjekt2.Form1.resources
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\obj\Debug\sinozicSebastianMojProjekt2.Properties.Resources.resources
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\obj\Debug\sinozicSebastianMojProjekt2.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\obj\Debug\sinozicSebastianMojProjekt2.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\obj\Debug\sinozicSebastianMojProjekt2.exe
+C:\Users\3.D\source\repos\sinozicSebastianMojProjekt2\sinozicSebastianMojProjekt2\obj\Debug\sinozicSebastianMojProjekt2.pdb
